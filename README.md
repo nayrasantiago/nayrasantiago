@@ -1,16 +1,13 @@
-## Hi there 👋
+### oiiiii
 
-<!--
-**nayrasantiago/nayrasantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+me chamo Nayra 
 
-Here are some ideas to get you started:
+sou estudante 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+acompanho o [Alura](https://www.alura.com)
+
+### Você pode entrar em contato comigo 📫
+
+nayra.santiago@escola.pr.gov.br
+
+![](https://media1.tenor.com/m/aKFaZBrZFYcAAAAC/excited-spin.gif)
